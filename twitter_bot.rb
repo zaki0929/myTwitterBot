@@ -118,8 +118,6 @@ end
 
 b1 = Bot.new()
 b2 = Bot.new()
-b3 = Bot.new()
-b4 = Bot.new()
 
 while true
   # ターゲット1, 船橋市
